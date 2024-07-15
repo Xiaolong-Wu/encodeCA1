@@ -1,6 +1,6 @@
 # encodeCA1
 
-encodeCA1: Mimicking the CA1 Encoding Process in Rats During Open-field Behavior Using Deep Learning
+encodeCA1: mimicking the CA1 encoding process in rats during open-field behavior using deep learning
 
 This data comes from the Buzsaki Lab. The link is:
 
