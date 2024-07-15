@@ -1,6 +1,6 @@
 # encodeCA1
 
-Mimicking the CA1 Encoding Process in Rats During Open-field Behavior Using Deep Learning
+encodeCA1: Mimicking the CA1 Encoding Process in Rats During Open-field Behavior Using Deep Learning
 
 This data comes from the Buzsaki Lab. The link is:
 
@@ -90,6 +90,6 @@ The data from Stage One has already been copied to the folder ‘test_pycharm\da
 The built CA1 model and its results are stored in the folder ‘test_pycharm\savedModel’.
 
 
-Abbreviations
+# Abbreviations
 
 MM, mathematical morphology
