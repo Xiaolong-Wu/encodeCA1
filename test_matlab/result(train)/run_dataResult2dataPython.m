@@ -26,7 +26,6 @@ dataResult_python=[dataResult 'rate(' num2str(testRate) ')'];
 
 path_temp=[pwd '\'];
 path_python='D:\test_pycharm\project_CA1\data_2022\';
-path_pythonResult='D:\test_pycharm\project_CA1\data_2022\saved_models\results\';
 
 path_toolbox='D:\test_matlab\toolbox\eegGA\';
 addpath(genpath(path_toolbox));
