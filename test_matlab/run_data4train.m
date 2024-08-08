@@ -122,7 +122,7 @@ for r1=1:nGroup
             % 11:12, cord_posture2
             % 13:15, cord_direction2
             
-            % 16, cord_egocentric
+            % 16:17, cord_egocentric
             of_target=zeros(nTrain,7+1+7+2);
             
             path_cord_group=[path_cord 'group_' num2code(r1,n_code) '\'];
